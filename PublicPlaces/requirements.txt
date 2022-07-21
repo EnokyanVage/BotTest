@@ -1,0 +1,4 @@
+aiogram==2.21
+python-dotenv==0.20.0
+gino==1.0.1
+asyncpg==0.26.0
